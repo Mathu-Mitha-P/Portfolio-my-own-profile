@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(10, 180, 253, 0.893);
+}
+.about{
+    height: 40px;
+    background-color: rgba(15, 26, 241, 0.427);
+    color: azure;
+    font-size: larger;
+    font-weight: bolder;
+    padding:  20px;
+    text-align: center;
+}
+.about-info{
+    padding: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: rgba(70, 155, 230, 0.525);
+    display: grid;
+    grid-template-columns: 30% 50%;
+    flex-direction: row;
+}
+
+.img{
+    padding: 20px;
+    margin-left: 100px;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: lighter;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.button{
+    background-color:rgba(15, 26, 241, 0.427) ;
+    height: 40px;
+    margin-left: 100px;
+}
+.sub-button{
+    color: beige;
+    font-weight: bolder;
+   
+}

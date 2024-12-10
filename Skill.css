@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(10, 180, 253, 0.893);
+}
+.skill{
+    text-align: center;
+    height: 20px;
+    background-color: rgba(15, 26, 241, 0.427);
+    color: azure;
+    font-size: larger;
+    font-weight: bolder;
+    padding:  20px;
+}
+.technical-skills{
+    text-align: center;
+    padding: 10px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    background-color: rgba(70, 155, 230, 0.525);
+    font-weight: bolder;
+}
+.technical-skill-info{
+    display: grid;
+    grid-template-columns:25% 25% 25% 25% ;
+    flex-direction: row;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(70, 155, 230, 0.525);
+    padding-left: 220px;
+}
+.professionals-skills{
+    text-align: center;
+    background-color: rgba(70, 155, 230, 0.525);
+    font-weight: bolder;
+}
+.professionals-skill-info{
+    display: grid;
+    grid-template-columns:20% 20% 20% 20% 20%;
+    flex-direction: row;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: rgba(70, 155, 230, 0.525);
+    padding-left: 220px;
+}

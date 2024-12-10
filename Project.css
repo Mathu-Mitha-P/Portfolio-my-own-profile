@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(10, 180, 253, 0.893);
+}
+.projects{
+    text-align: center;
+    height: 20px;
+    background-color: rgba(15, 26, 241, 0.427);
+    color: azure;
+    font-size: larger;
+    font-weight: bolder;
+    padding:  20px;
+}
+.project-1{
+    text-align: center;
+    padding: 10px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: rgba(70, 155, 230, 0.525);
+    font-weight: bolder;
+}
+.SC{
+    display: grid;
+    grid-template-rows:15%;
+    flex-direction: column;
+    padding: 100px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color: rgba(70, 155, 230, 0.525);
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.p{
+    font-weight: bolder;
+}
+.project-2{
+    text-align: center;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(70, 155, 230, 0.525);
+    font-weight: bolder;
+}
+.BC{
+    display: grid;
+    grid-template-rows:15%;
+    flex-direction: column;
+    padding: 100px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color: rgba(70, 155, 230, 0.525);
+    padding-left: 200px;
+    padding-right: 200px;
+}
